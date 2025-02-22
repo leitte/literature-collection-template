@@ -1,3 +1,6 @@
 title: My Jekyll Blog
 description: A simple blog built with Jekyll on GitHub Pages.
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+plugins:
+  - jekyll-remote-theme
