@@ -4,3 +4,4 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-sass-converter
